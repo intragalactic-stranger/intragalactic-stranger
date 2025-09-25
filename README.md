@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-title.vercel.app/api/headings/gradient?title=Hi%20%F0%9F%91%8B%2C%20I'm%20Ganeshan%20\nArumuganainar&size=50" alt="Hi 👋, I'm Ganeshan Arumuganainar" />
+  <img src="https://github-readme-title.vercel.app/api/headings/gradient?title=Hi%20%F0%9F%91%8B%2C%20I'm%20Ganeshan%20Arumuganainar&size=50" alt="Hi 👋, I'm Ganeshan Arumuganainar" />
 </div>
 
 <h3 align="center">A passionate AI Engineer from India</h3>
