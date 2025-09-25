@@ -16,21 +16,39 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=intragalactic-stranger&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="Ganeshan's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=intragalactic-stranger&theme=vue-dark&hide_border=true" alt="Ganeshan's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intragalactic-stranger&layout=compact&theme=vue-dark&hide_border=true" alt="Ganeshan's Top Languages" />
-</p>
-
----
+<table>
+  <tr>
+    <td valign="top" width="60%">
 
 ### 👨‍💻 About Me
 
 > Results-driven AI Engineer with a strong foundation in building enterprise-grade GenAI systems from concept to production. Experienced in developing scalable architectures, driving framework development, and enabling rapid prototyping of AI solutions in domains like healthcare, pharma, finance, insurance, HR, and other services. Proven ability in translating innovative business ideas into scalable and practical industry grade applications through a deep understanding of the GenAI stack, cloud-native development, and end-user experience.
 
 ---
+
+### 💼 Professional Experience
+
+**Associate Software Engineer (Generative AI)** @ *PibyThree Consulting Services Pvt Ltd.* (July 2024 - Present)
+- Architected and deployed robust, scalable Generative AI solutions by containerizing LLM-powered microservices and modular RAG pipelines for production environments on AWS.
+- Spearheaded the development of a proprietary "GenAI-In-A-Box" framework that accelerated GenAI application delivery by over 50%.
+- Delivered full-stack AI solutions for diverse business domains, including an insurance agent bot, a hospitality agent with CRUD operations, an audiobook generator, and an HR candidate pre-screening RAG.
+
+**Research Intern** @ *K.J. Somaiya Institute of Technology* (June 2023 - June 2024)
+- Engineered a crop classification system using a Random Forest algorithm on multispectral satellite data, achieving 85% classification accuracy.
+- Automated the processing of satellite imagery and calculation of crop acreage estimations using Google Earth Engine.
+
+---
+
+### 🚀 Projects
+
+**Chronic Kidney Disease Prediction Using Hybrid Algorithms**
+- Engineered a hybrid deep learning model combining an ANN with a Cuckoo Search optimization algorithm to accurately predict CKD, achieving 92% prediction accuracy.
+
+**Cross-Platform Course Comparison System**
+- Developed an ML-powered tool to aggregate and compare online courses from Coursera, Udemy, and YouTube, with sentiment analysis on user reviews.
+
+    </td>
+    <td valign="top" width="40%">
 
 ### 🛠️ Technical Skills
 
@@ -67,26 +85,17 @@ Here are some of the technologies I work with:
 
 ---
 
-### 💼 Professional Experience
+### 📊 GitHub Stats
 
-**Associate Software Engineer (Generative AI)** @ *PibyThree Consulting Services Pvt Ltd.* (July 2024 - Present)
-- Architected and deployed robust, scalable Generative AI solutions by containerizing LLM-powered microservices and modular RAG pipelines for production environments on AWS.
-- Spearheaded the development of a proprietary "GenAI-In-A-Box" framework that accelerated GenAI application delivery by over 50%.
-- Delivered full-stack AI solutions for diverse business domains, including an insurance agent bot, a hospitality agent with CRUD operations, an audiobook generator, and an HR candidate pre-screening RAG.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=intragalactic-stranger&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="Ganeshan's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=intragalactic-stranger&theme=vue-dark&hide_border=true" alt="Ganeshan's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intragalactic-stranger&layout=compact&theme=vue-dark&hide_border=true" alt="Ganeshan's Top Languages" />
+</p>
 
-**Research Intern** @ *K.J. Somaiya Institute of Technology* (June 2023 - June 2024)
-- Engineered a crop classification system using a Random Forest algorithm on multispectral satellite data, achieving 85% classification accuracy.
-- Automated the processing of satellite imagery and calculation of crop acreage estimations using Google Earth Engine.
-
----
-
-### 🚀 Projects
-
-**Chronic Kidney Disease Prediction Using Hybrid Algorithms**
-- Engineered a hybrid deep learning model combining an ANN with a Cuckoo Search optimization algorithm to accurately predict CKD, achieving 92% prediction accuracy.
-
-**Cross-Platform Course Comparison System**
-- Developed an ML-powered tool to aggregate and compare online courses from Coursera, Udemy, and YouTube, with sentiment analysis on user reviews.
+    </td>
+  </tr>
+</table>
 
 ---
 
