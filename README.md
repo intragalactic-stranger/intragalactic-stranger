@@ -3,8 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-title.vercel.app/api/headings/gradient?title=Hi%20%F0%9F%91%8B%2C%20I'm%20Ganeshan&size=50" alt="Hi 👋, I'm Ganeshan Arumuganainar" />
-  <img src="https://github-readme-title.vercel.app/api/headings/gradient?title=Arumuganainar&size=50" alt="Arumuganainar" />
+  <img src="https://github-readme-title.vercel.app/api/headings/gradient?title=Hi%20%F0%9F%91%8B%2C%20I'm%20Ganeshan%20Arumuganainar&size=50" alt="Hi 👋, I'm Ganeshan Arumuganainar" />
 </div>
 
 <h3 align="center">A passionate AI Engineer from India</h3>
@@ -89,8 +88,8 @@ Here are some of the technologies I work with:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=intragalactic-stranger&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="Ganeshan's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=intragalactic-stranger&theme=vue-dark&hide_border=true" alt="Ganeshan's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intragalactic-stranger&layout=compact&theme=vue-dark&hide_border=true" alt="Ganeshan's Top Languages" />
+<img src="https://streak-stats.demolab.com/?user=intragalactic-stranger&theme=vue-dark&hide_border=true" alt="Ganeshan's GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intragalactic-stranger&layout=compact&theme=vue-dark&hide_border=true" alt="Ganeshan's Top Languages" />
 </p>
 
     </td>
