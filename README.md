@@ -11,6 +11,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ganeshannainar" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ganeshannainar" /></a>
   <a href="mailto:ganeshanarumuganainar@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ganeshanarumuganainar" /></a>
+  <a href="https://main.dasnk68s2s56y.amplifyapp.com/" target="blank"><img align="center" src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/website?url=https%3A%2F%2Fmain.dasnk68s2s56y.amplifyapp.com%2F)" alt="ganeshanarumuganainar" /></a>
 </p>
 
 ---
